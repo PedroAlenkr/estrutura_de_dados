@@ -123,7 +123,7 @@ void divisao(int chave, NO tabela[]){
 }
 
 void dobra(int chave, NO tabela[]){
-    int aux, vetor[6], resp; //chaves com até 6 casas decimais
+    int aux, vetor[6], resp; //chaves com ate 6 casas decimais
 
     for(int i=0;i<6;i++) vetor[i]= 0;
     
