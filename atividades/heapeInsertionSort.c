@@ -100,7 +100,7 @@ void insertionsort(int vetor[]){
 
 int main(){
   int i,j;
-  int vetor[10000];
+  int vetor[10000]; //testes com 1000, 10000, 50000, 100000 e 1000000 espaços no vetor para análise de complexidade de tempo
   j=10000;
 
   for(i=0;i<10000;i++){ //não tão aleatório né mas é pq n dá pra repetir números no vetor ent foi nisso q pensei :/
